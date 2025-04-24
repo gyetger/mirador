@@ -1,0 +1,26 @@
+diff --git a/node_modules/mirador-image-tools/es/translations.js b/node_modules/mirador-image-tools/es/translations.js
+index d7e2b76..0e57132 100644
+--- a/node_modules/mirador-image-tools/es/translations.js
++++ b/node_modules/mirador-image-tools/es/translations.js
+@@ -56,6 +56,21 @@ var translations = {
+     rotateRight: 'Ротирај десно',
+     saturation: 'Сатурација',
+     showImageTools: 'Прикажите алат'
++  },
++  hu: {
++    brightness: 'Fényerő',
++    collapse_open: 'Képeszközök összezárása',
++    collapse_close: 'Képeszközök kinyitása',
++    contrast: 'Kontraszt',
++    flip: 'Tükrözés',
++    greyscale: 'Szürkeárnyalatos',
++    hide: 'Képeszközök elrejtése',
++    invert: 'Színek invertálása',
++    revert: 'Eredeti visszaállítása',
++    rotateLeft: 'Forgatás balra',
++    rotateRight: 'Forgatás jobbra',
++    saturation: 'Színtelítettség',
++    show: 'Képeszközök megjelenítése'
+   }
+ };
+ 

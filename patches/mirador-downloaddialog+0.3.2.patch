@@ -1,0 +1,20 @@
+diff --git a/node_modules/mirador-downloaddialog/es/locales.js b/node_modules/mirador-downloaddialog/es/locales.js
+index a904efe..94b0625 100644
+--- a/node_modules/mirador-downloaddialog/es/locales.js
++++ b/node_modules/mirador-downloaddialog/es/locales.js
+@@ -25,5 +25,14 @@ export default {
+     otherDownloadOptions: "Autres liens de téléchargement",
+     pixels: "pixels",
+     showDownloadOptions: "Afficher les options de téléchargement"
++  },
++  hu: {
++    close: "Bezárás",
++    downloadOptions: "Letöltési lehetőségek",
++    iiifManifest: "IIIF manifest",
++    image: "Kiválasztott kép",
++    otherDownloadOptions: "További letöltési lehetőségek",
++    pixels: "pixel",
++    showDownloadOptions: "Letöltési lehetőségek"
+   }
+ };
+\ No newline at end of file
