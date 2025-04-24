@@ -215,13 +215,12 @@ export default {
       },
     },
   },
-  language: 'en', // The default language set in the application
+  language: 'hu', // The default language set in the application
   availableLanguages: { // All the languages available in the language switcher
-    ar: 'العربية',
+    hu: 'Magyar',
     de: 'Deutsch',
     en: 'English',
     et: 'Eesti',
-    fa: 'فارسی',
     fr: 'Français',
     ja: '日本語',
     kr: '한국어',
@@ -230,9 +229,6 @@ export default {
     'nb-NO': 'Norwegian Bokmål',
     pl: 'Polski',
     'pt-BR': 'Português do Brasil',
-    vi:'Tiếng Việt',
-    'zh-CN': '中文(简体)',
-    'zh-TW': '中文(繁體)',
     it: "Italiano",
     sr: 'Српски',
     sv: 'Svenska',

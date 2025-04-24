@@ -1,12 +1,9 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
-import ar from './locales/ar/translation.json';
+import hu from './locales/hu/translation.json';
 import de from './locales/de/translation.json';
 import en from './locales/en/translation.json';
 import et from './locales/et/translation.json';
-import fa from './locales/fa/translation.json';
-import zhCn from './locales/zhCn/translation.json';
-import zhTw from './locales/zhTw/translation.json';
 import fr from './locales/fr/translation.json';
 import ja from './locales/ja/translation.json';
 import kr from './locales/kr/translation.json';
@@ -17,7 +14,6 @@ import it from './locales/it/translation.json';
 import sr from './locales/sr/translation.json';
 import sv from './locales/sv/translation.json';
 import lt from './locales/lt/translation.json';
-import vi from './locales/vi/translation.json';
 import bg from './locales/bg/translation.json';
 import nbNo from './locales/nbNo/translation.json';
 
@@ -26,11 +22,10 @@ import nbNo from './locales/nbNo/translation.json';
  */
 function createI18nInstance() {
   const resources = {
-    ar,
+    hu,
     de,
     en,
     et,
-    fa,
     fr,
     it,
     ja,
@@ -42,9 +37,6 @@ function createI18nInstance() {
     'pt-BR': ptBr,
     sr,
     sv,
-    vi,
-    'zh-CN': zhCn,
-    'zh-TW': zhTw,
     bg
   };
 
